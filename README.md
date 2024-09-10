@@ -1,3 +1,4 @@
+![logo](https://github.com/shreyakushw/shreyakushw/blob/main/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Shreya Kushwaha</h1>
 <h3 align="center">Building the Future, One Line at a Time | Passionate about Going on new Adventures</h3>
