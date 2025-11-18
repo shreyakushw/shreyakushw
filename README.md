@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyakushw&label=Profile%20views&color=0e75b6&style=flat" alt="shreyakushw" /> </p>
 
 - 🌱 I’m currently learning **Steganography in Medical Images**
-- 💬 Ask me about **JavaFX, SAP ABAP, Java**
+- 💬 Ask me about **SpringBoot, Angular, JavaFX, SAP ABAP, Java**
 - 📫 How to reach me **shreya.kushw02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
