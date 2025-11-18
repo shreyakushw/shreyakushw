@@ -19,11 +19,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8i4zPog-0j0JR_yZglxPhTPZXxN2iMTQ3Dw&s" alt="SpringBoot" width="40" height="40"/> </a> 
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ--eHdzercOrbrZEUNDu2Aljzs2HQihR_S5g&s" alt="Angular" width="40" height="40"/> </a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40"/> </a> 
+  <a href="https://www.tutorialscampus.com/sap-abap/index.htm" target="_blank" rel="noreferrer"> <img src="https://images.squarespace-cdn.com/content/v1/56a77c1b25981d11f5774bbe/1458247771788-F1NEVFAKEUZ1NB4YM71C/SAP+ABAP+Tips+and+Tricks" alt="abap" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <!--   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  -->
-  <a href="https://www.tutorialscampus.com/sap-abap/index.htm" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/882/882701.png" alt="sap" width="40" height="40"/> </a>
-  <a href="https://www.tutorialscampus.com/sap-abap/index.htm" target="_blank" rel="noreferrer"> <img src="https://images.squarespace-cdn.com/content/v1/56a77c1b25981d11f5774bbe/1458247771788-F1NEVFAKEUZ1NB4YM71C/SAP+ABAP+Tips+and+Tricks" alt="abap" width="40" height="40"/> </a> 
+  <!-- <a href="https://www.tutorialscampus.com/sap-abap/index.htm" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/882/882701.png" alt="sap" width="40" height="40"/> </a> -->
   <a href="https://openjfx.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/JavaFX_text_logo.png" alt="javafx" width="40" height="40"/> </a> 
   <a href="https://openjfx.io/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" alt="scenebuilder" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
